@@ -1,13 +1,17 @@
 ---
 layout: post
 published: false
-title: "Ansible with AWS: from EC2 to Autoscale"
+title: Fazendo os testes locos com o prose.io
 mathjax: false
 featured: false
 comments: false
-categories: 
+categories:
   - devops
 tags: ec2 aws cloudwatch autoscaling ansible
+description: ''
+headline: ''
+modified: ''
+imagefeature: ''
 ---
 
 **ATTENTION: THIS ARTICLE STILL BEING WRITTEN.**
@@ -40,7 +44,7 @@ Inside your playbooks folder, create a folder called *inventory*.
     
 Now move your current inventory file (often called *hosts*) into this folder
 
-    mv hosts inventory/
+		mv hosts inventory/
     
 To tell ansible to use the new inventory, there are 2 options:
 
