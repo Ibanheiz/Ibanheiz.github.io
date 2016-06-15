@@ -1,17 +1,19 @@
 ---
 layout: post
 published: true
-title: "Blogging like a dev: Jekyll + GitHub + Prose.io"
+title: 'Blogging like a dev: Jekyll + GitHub + Prose.io'
 mathjax: false
 featured: true
 comments: true
-modified: "2015-01-11"
-categories: 
+modified: '2015-01-11'
+categories:
   - Development
 tags: blog github markdown
 ---
 
 You want a blog that is fully customizable and is sick of WordPress mess and insecurity? One solution is to use Jekyll to build a blog where all posts are in markdown format, is hosted in github and I can edit using a browser with prose.io.
+
+<div style="width: 50px; height: 50px; border: 1px solid red"></div>
 
 Summary of benefits:
 
@@ -122,6 +124,3 @@ If you are using Notepad theme, you will notice there are 2 branches: gh-pages a
     git push origin :gh-pages   # deletes remote branch gh-pages
     
 Again for Notepad theme, you can safely delete images from the *images* folder, and replace the logo.png with your own.
-
-    
-
