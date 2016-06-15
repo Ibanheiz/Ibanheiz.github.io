@@ -44,7 +44,7 @@ Inside your playbooks folder, create a folder called *inventory*.
     
 Now move your current inventory file (often called *hosts*) into this folder
 
-		mv hosts inventory/
+    mv hosts inventory/
     
 To tell ansible to use the new inventory, there are 2 options:
 
