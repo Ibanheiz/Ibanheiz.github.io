@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Fazendo os testes locos com o prose.io
+title: 'Um Salve pro Blumas! '
 mathjax: false
 featured: false
 comments: false
@@ -29,6 +29,8 @@ And for the grand finalle:
 - Autoscale
 
 ## Dynamic Inventory
+
+<div style="width: 50px; height: 50px; border: 1px solid red"></div>
 
 I had a run down on the subject of inventories in a previous post: [Ansible with Multiple Inventory Files](http://allandenot.com/devops/2015/01/16/ansible-with-multiple-inventory-files.html), but I will copy/paste the most important bits here with an extended explanation for the context of this article.
 
